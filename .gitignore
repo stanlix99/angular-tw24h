@@ -42,3 +42,8 @@ testem.log
 Thumbs.db
 .vercel
 .angular
+
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json

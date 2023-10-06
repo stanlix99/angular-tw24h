@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Pixelify+Sans:wght@500&family=Raleway:wght@500&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+.body{
+    width: 98vw;
+    height: 98vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    height: 69vh;
+    width: 100vw;
+    background-color: rgb(88, 43, 146);
+    padding: 10px;
+}
+
+.twitt{
+    font-size: 3vmax;
+}
